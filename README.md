@@ -24,7 +24,7 @@ SharkPitch is a dynamic online platform designed to connect aspiring entrepreneu
 
 ## Getting the names of the project.
 
-![names](https://github.com/user-attachments/assets/5e9ae243-2eef-474b-901b-cad923c17a73)
+![names](https://github.com/user-attachments/assets/9f8aa935-a4eb-43f8-b91b-1e10ef9e8edb)
 
 
 ### Embark on your entrepreneurial journey or find your next big investment opportunity with SharkPitch. Sign up today and become a part of a thriving community dedicated to innovation and growth.
